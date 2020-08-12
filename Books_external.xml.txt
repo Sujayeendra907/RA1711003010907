@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>  
+<!DOCTYPE books SYSTEM "books.dtd">
+<books> 
+	<book>
+		<title> Rich dad poor dad </title>
+		<author> ROBERT KOISAKI </author>
+		<genre> Selfd devlopment </genre>
+		<copyright> 2009 </copyright>
+		<edition> fourth </edition>
+		<isbn> 9780672323089 </isbn>
+		<publisher> pearl books </publisher>
+		<price> 600 </price>
+ 	</book>
+ 	<book>
+		<title> 1984 </title>
+		<author> George Orwell </author>
+		<genre> Realistic fiction</genre>
+		<copyright> 1951 </copyright>
+		<edition> first </edition>
+		<isbn> 9780316769488 </isbn>
+		<publisher> Little poetry </publisher>
+		<price> 500 </price>
+	</book>
+	<book>
+		<title> The Silent Patient </title>
+		<author> ALEX MICHAELIDES </author>
+		<genre> Mystery </genre>
+		<copyright> 2019 </copyright>
+		<edition> first </edition>
+		<isbn> 9781409181637 </isbn>
+		<publisher> Macmillan Publishers </publisher>
+		<price> 299 </price>
+ 	</book>
+ 	<book>
+		<title> Harry Potter and the Philosopher’s Stone </title>
+		<author> J.K. Rowling </author>
+		<genre> Young adult fiction </genre>
+		<copyright> 2014 </copyright>
+		<edition> first </edition>
+		<isbn> 9780385741262 </isbn>
+		<publisher> star Publishing </publisher>
+		<price> 196 </price>
+ 	</book>
+ 	<book>
+		<title> The Lord of the Rings </title>
+		<author> J.R.R. Tolkien </author>
+		<genre> Mystery </genre>
+		<copyright> 2012 </copyright>
+		<edition> first </edition>
+		<isbn> 9780307588371 </isbn>
+		<publisher> Crown Publishing Group </publisher>
+		<price> 974 </price>
+ 	</book>
+</books>
